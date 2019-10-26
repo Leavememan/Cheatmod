@@ -1,1 +1,6 @@
-
+{
+  "name": "Cheat Mod",
+  "author": "Werlucad",
+  "description": "This is a mod to add sandbox items to survival worlds",
+  "version": "1.0"
+}
