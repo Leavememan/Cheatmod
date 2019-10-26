@@ -1,1 +1,20 @@
-
+{
+	"type": "SingleTypeGenerator",
+	"name": "Survival Power Source",
+	"description": "Cheat item that give infinite power",
+	"size": 1,
+	"hasPower": true,
+	"hasItems": false,
+	"itemDuration": 0.1,
+	"powerProduction": 99999,
+	"consumes": {
+		"items": {}
+	},
+	"requirements": [
+		{ "item": "copper", "amount": 80 },
+		{ "item": "lead", "amount": 60 },
+		{ "item": "titanium", "amount": 50 }
+	],
+	"category": "power",
+	"research": "mass-driver"
+}
